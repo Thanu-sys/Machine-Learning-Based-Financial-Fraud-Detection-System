@@ -1,0 +1,13 @@
+{
+    "model": "random_forest",
+    "resampling_method": "random",
+    "metrics": {
+        "accuracy": 0.999403110845827,
+        "precision": 0.826530612244898,
+        "recall": 0.826530612244898,
+        "f1_score": 0.826530612244898,
+        "roc_auc": 0.9583959005661915
+    },
+    "training_time": 236.58087944984436,
+    "overall_score": 0.8874781696293426
+}
