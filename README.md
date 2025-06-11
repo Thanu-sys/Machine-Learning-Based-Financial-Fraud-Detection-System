@@ -158,13 +158,6 @@ For detailed documentation, including:
 
 Please refer to `project_documentation.md`
 
-## Limitations
-
-1. Model requires multiple risk factors to trigger high-risk alerts
-2. Detection confidence is consistently 0.5
-3. No authentication system implemented
-4. No rate limiting for API
-5. No caching mechanism
 
 ## Future Improvements
 
